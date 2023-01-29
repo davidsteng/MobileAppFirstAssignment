@@ -1,7 +1,7 @@
 # MobileAppFirstAssignment
 First Programming Assignment for Mobile Apps and Services
 
-#Revision History
+## Revision History
 1. Base sample application pushed with two fragments, button to switch between the two and bottom menu tab
 2. Pushed code for flashlight open close on button to bugtest on another device
 3. Flashlight code bugged and does nto accept user permissions. Removed from program after confirming need for
@@ -13,6 +13,6 @@ First Programming Assignment for Mobile Apps and Services
   through 2nd fragment
 8. Added notifications to confirm database information is sucessfully pushed.
 
-#Known Bugs
+## Known Bugs
 1. Application sometimes does not display / send notification to device correctly
 2. Torch message on Firebase data send sometimes loops infinitely leading to application crash
