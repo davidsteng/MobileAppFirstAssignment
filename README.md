@@ -16,3 +16,8 @@ First Programming Assignment for Mobile Apps and Services
 ## Known Bugs
 1. Application sometimes does not display / send notification to device correctly
 2. Torch message on Firebase data send sometimes loops infinitely leading to application crash
+
+## Running the Application
+1. Application code can be downloaded on Github and converted into an APK file using an IDE like Android Studios or
+a ZIP file service.
+2. Moving the APK to an Android mobile device will allow the application to be run on that device.
